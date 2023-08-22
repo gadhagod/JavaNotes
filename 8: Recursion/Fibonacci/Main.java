@@ -20,7 +20,7 @@ public class Main
             return arr;
         } 
         else 
-        {{}}{Pfiq43528123.zmdf}
+        {
             arr.add(
                 arr.get(arr.size() - 1) + arr.get(arr.size() - 2)
             );

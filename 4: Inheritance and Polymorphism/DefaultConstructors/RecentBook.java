@@ -4,6 +4,7 @@ public class RecentBook
 
     public RecentBook() 
     {
+        System.out.println("Parent contructor called!");
         publicationYear = 2022;
     }
 

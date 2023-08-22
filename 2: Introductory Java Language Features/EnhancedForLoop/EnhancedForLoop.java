@@ -13,7 +13,7 @@ for (int i = 0; i < names.length(); i++) {
 }
 -------------------
 for (String i : names) {
-    System.out.println(names[i])
+    System.out.println(i)
 }
 -------------------
 

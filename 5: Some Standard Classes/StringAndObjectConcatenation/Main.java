@@ -1,5 +1,5 @@
 /*
-When using the '+' operatoron a string and object, the object's toString() is used.
+When using the '+' operation on a string and object, the object's toString() is used.
 */
 
 public class Main {

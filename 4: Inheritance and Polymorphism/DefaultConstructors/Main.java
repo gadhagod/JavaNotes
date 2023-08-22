@@ -1,5 +1,5 @@
 /* 
-If no constructor is written for a subclass, the superclass's default construcotr
+If no constructor is written for a subclass, the superclass's default constructor
 (constructor with no parameters) is used. 
 
 NOTES:
